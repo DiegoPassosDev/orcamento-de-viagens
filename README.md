@@ -45,9 +45,11 @@ Uma aplicação desktop robusta e intuitiva para gerenciamento de orçamento de 
 A interface é dividida em três seções principais:
 
 1. **Painel Esquerdo:** Exibe orçamento total, despesas totais e saldo restante
+![alt text](img/image.png)
 2. **Painel Direito:** Gráfico pizza com distribuição das despesas por categoria
+![alt text](img/image-1.png)
 3. **Painel Inferior:** Tabela de despesas com ações CRUD e controles de saldo
-
+![alt text](img/image-2.png)
 ---
 
 ## 🔧 Requisitos do Sistema
